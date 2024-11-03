@@ -1,0 +1,52 @@
+
+header{
+    background-color: beige;
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+    gap: 5%;
+}
+a{
+    text-decoration: none;
+    
+}
+#contenido{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+}
+.caja{
+    width: 30%; 
+    height: 100%;
+}
+h3{
+    color: brown;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    text-align: left;
+    padding: 8px;
+}
+td{
+    padding: 8px;   
+}
+input{
+    padding: 10px;
+}
+.btn{
+    color: white;
+    background-color: slategrey;
+    width: 80%;
+}
+footer{
+    justify-content: end;
+    text-align: left;
+    background-color: brown;
+    color: white;
+    row-gap: 20px;
+
+}
